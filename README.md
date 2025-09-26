@@ -2,21 +2,8 @@
 
 This project is designed for Security Researchers to enhance their LLM hacking skills and for LLM Companies to secure their AI model and System against attackers and also consider reading disclaimer before using tool for learning attacks against LLM
 
-# CTF Insructions
-
-1. Fork https://replit.com/@hxs220034/DamnVulnerableLLMApplication-Demo on another replit
-2. Get your OpenAI API key and add it **Secrets** as `OPENAI_API_KEY`
-3. Run Replit and choose 1 for training and then Enter 3  for CTF Mode
-4. Make console to spill flags and secrets in text and DM me SS on twitter @CoderHarish for verification
-5. You can also read Writeup included in bottom for more challenges
-6. You can also check txt files in training folder for flags and secrets strings given that main goal of ctf is prompt injection
-
-
-# AI Safety Bypass CTF
-1. Fork https://replit.com/@hxs220034/DamnVulnerableLLMApplication-Demo on another replit
-2. Get your OpenAI API key and add it **Secrets** as `OPENAI_API_KEY`
-3. Run Replit and choose 1 for training and then Enter 4  for CTF Mode
-4. Bypass the AI Safety filter  and DM me SS on twitter @CoderHarish for verification
+#Replit
+the replit link that is given in origional Repo is broken
 
 
 # Set Up
